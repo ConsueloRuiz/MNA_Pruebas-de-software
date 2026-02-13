@@ -1,0 +1,15 @@
+SALES SUMMARY
+------------------------------
+Sale ID 1: $83.39
+Sale ID 2: $67.57
+Sale ID 3: $144.74
+Sale ID 4: $87.23
+Sale ID 5: $94.33
+Sale ID 6: $239.04
+Sale ID 7: $182.11
+Sale ID 8: $407.30
+Sale ID 9: $851.43
+Sale ID 10: $324.72
+------------------------------
+TOTAL SALES: $2481.86
+Execution Time: 0.000663 seconds
